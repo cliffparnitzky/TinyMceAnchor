@@ -27,7 +27,7 @@ https://github.com/cliffparnitzky/TinyMceAnchor/issues
 Compatibility
 -------------
 
-- Contao version >= 4.4.0
+- Contao version >= 4.13.0
 
 
 Dependency
